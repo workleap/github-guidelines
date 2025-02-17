@@ -6,7 +6,7 @@ You'll find below a few guidelines to follow when contributing to a Github repos
 
 Workleap doesn't have any specific requirements regarding which account you use to contribute to any of the organization repository. You can use your personal account or create a new account related to Workleap.
 
-However, before contributing, you must associate your Github account to [Workleap Github organization](https://github.com/gsoft-inc). To do so, **open a ticket with infra** and ask to be added to the `gsoft-inc` organization on Github.
+However, before contributing, you must associate your Github account to [Workleap Github organization](https://github.com/workleap). To do so, **open a ticket with infra** and ask to be added to the `gsoft-inc` organization on Github.
 
 ## Repository name
 
@@ -74,4 +74,4 @@ Ex.
 
 ## License
 
-Every open source project developed by Workleap must be under the Apache 2.0 license and link to the following license: https://github.com/gsoft-inc/workleap-license/blob/master/LICENSE
+Every open source project developed by Workleap must be under the Apache 2.0 license and link to the following license: https://github.com/workleap/workleap-license/blob/master/LICENSE
